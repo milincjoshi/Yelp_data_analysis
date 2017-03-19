@@ -1,0 +1,7 @@
+# Gradle related files
+.gradle/
+.idea/
+build/
+*.env
+
+/bin/
